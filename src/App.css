@@ -1,0 +1,11 @@
+.app {
+  text-align: center;
+  background-color: darkgoldenrod;
+}
+
+.todo {
+  background-color: darkgreen;
+  padding: 1em;
+  border: 1px solid wheat;
+  color: whitesmoke;
+}
